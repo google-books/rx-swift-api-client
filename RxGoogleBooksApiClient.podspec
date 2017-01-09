@@ -25,13 +25,13 @@ RxGoogleBooksApiClient is RxSwift wrapper for the Google Books API Client Librar
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'gomi_ningen' => 'gomi2ngen@gmail.com' }
-  s.source           = { :git => 'https://github.com/google-books/swift-api-client.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/gomi_ningen'
 
   s.ios.deployment_target = '8.0'
-
-  s.source_files = 'RxGoogleBooksApiClient/**/*'
   
+  s.source       = { :git => "https://github.com/google-books/rx-swift-api-client.git", :tag => s.version.to_s }
+  s.source_files     = 'RxGoogleBooksApiClient/**/*.swift'
+
   # s.resource_bundles = {
   #   'RxGoogleBooksApiClient' => ['RxGoogleBooksApiClient/Assets/*.png']
   # }
