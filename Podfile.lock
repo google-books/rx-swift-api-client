@@ -1,19 +1,19 @@
 PODS:
-  - GoogleBooksApiClient (0.0.3)
-  - RxCocoa (3.0.1):
-    - RxSwift (~> 3.0)
-  - RxSwift (3.0.1)
+  - GoogleBooksApiClient (0.0.4)
+  - RxCocoa (3.1.0):
+    - RxSwift (~> 3.1)
+  - RxSwift (3.1.0)
 
 DEPENDENCIES:
-  - GoogleBooksApiClient (= 0.0.3)
-  - RxCocoa (= 3.0.1)
-  - RxSwift (= 3.0.1)
+  - GoogleBooksApiClient (~> 0.0)
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
 
 SPEC CHECKSUMS:
-  GoogleBooksApiClient: 4d091f715d1b5feb867fc7e719c7abe6abb74fb4
-  RxCocoa: 15a52fc590dcc700cb4a690a633b5c5184ce3a78
-  RxSwift: af5680055c4ad04480189c52d28385b1029493a6
+  GoogleBooksApiClient: a2c931bcfa2d5251a2ed7945f7a424f7a720563b
+  RxCocoa: 50d7564866da9299161e86a263ce12a0873904d8
+  RxSwift: 83ff553e7593fdfdcb2562933a64c0284dffdadc
 
-PODFILE CHECKSUM: af1cab7223a5c5afe179bc44d220aca7a0303ec8
+PODFILE CHECKSUM: 2c0754cee750d4c7472d90f0078f57bf7d3f1f52
 
 COCOAPODS: 1.1.1

@@ -40,6 +40,6 @@ RxGoogleBooksApiClient is RxSwift wrapper for the Google Books API Client Librar
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'RxSwift', '~> 3.0'
   s.dependency 'RxCocoa', '~> 3.0'
-  s.dependency 'GoogleBooksApiClient', '0.0.3'
+  s.dependency 'GoogleBooksApiClient', '~> 0.0'
 end
 
